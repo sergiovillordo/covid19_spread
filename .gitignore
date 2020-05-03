@@ -1,0 +1,5 @@
+example
+*.ipynb
+*.Rmd
+*.nb.html
+

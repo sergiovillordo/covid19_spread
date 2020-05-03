@@ -1,0 +1,208 @@
+location,counts,id,country
+Afghanistan,100,1,Afghanistan
+Albania,41,1,Albania
+Algeria,105,1,Algeria
+Andorra,36,1,Andorra
+Angola,28,1,Angola
+Anguilla,23,1,Anguilla
+Antigua and Barbuda,30,NA,Barbuda
+Argentina,43,1,Argentina
+Armenia,101,1,Armenia
+Aruba,27,1,Aruba
+Australia,110,1,Australia
+Austria,110,1,Austria
+Azerbaijan,103,1,Azerbaijan
+Bahamas,32,1,Bahamas
+Bahrain,109,1,Bahrain
+Bangladesh,35,1,Bangladesh
+Barbados,32,1,Barbados
+Belarus,102,1,Belarus
+Belgium,110,1,Belgium
+Belize,26,1,Belize
+Benin,33,1,Benin
+Bermuda,30,1,Bermuda
+Bhutan,36,1,Bhutan
+Bolivia,37,1,Bolivia
+Bonaire Sint Eustatius and Saba,17,NA,Bonaire
+Bosnia and Herzegovina,37,1,Bosnia and Herzegovina
+Botswana,18,1,Botswana
+Brazil,107,1,Brazil
+British Virgin Islands,23,NA,Virgin Islands
+Brunei,39,1,Brunei
+Bulgaria,40,1,Bulgaria
+Burkina Faso,37,1,Burkina Faso
+Burundi,18,1,Burundi
+Cambodia,101,1,Cambodia
+Cameroon,37,1,Cameroon
+Canada,110,1,Canada
+Cape Verde,29,1,Cape Verde
+Cayman Islands,30,1,Cayman Islands
+Central African Republic,34,1,Central African Republic
+Chad,30,1,Chad
+Chile,45,1,Chile
+China,110,1,China
+Colombia,39,1,Colombia
+Congo,34,NA,Republic of Congo
+Costa Rica,42,1,Costa Rica
+Cote d'Ivoire,36,NA,Ivory Coast
+Croatia,107,1,Croatia
+Cuba,35,1,Cuba
+Curacao,26,1,Curacao
+Cyprus,38,1,Cyprus
+Czech Republic,110,1,Czech Republic
+Democratic Republic of Congo,37,NA,Democratic Republic of the Congo
+Denmark,110,1,Denmark
+Djibouti,31,1,Djibouti
+Dominica,27,1,Dominica
+Dominican Republic,101,1,Dominican Republic
+Ecuador,105,1,Ecuador
+Egypt,106,1,Egypt
+El Salvador,31,1,El Salvador
+Equatorial Guinea,35,1,Equatorial Guinea
+Eritrea,28,1,Eritrea
+Estonia,105,1,Estonia
+Ethiopia,36,1,Ethiopia
+Faeroe Islands,30,NA,Denmark
+Falkland Islands,15,1,Falkland Islands
+Fiji,30,1,Fiji
+Finland,106,1,Finland
+France,110,1,France
+French Polynesia,31,1,French Polynesia
+Gabon,36,1,Gabon
+Gambia,32,1,Gambia
+Georgia,107,1,Georgia
+Germany,110,1,Germany
+Ghana,36,1,Ghana
+Gibraltar,30,NA,UK
+Greece,108,1,Greece
+Greenland,30,1,Greenland
+Grenada,27,1,Grenada
+Guam,31,1,Guam
+Guatemala,35,1,Guatemala
+Guernsey,30,1,Guernsey
+Guinea,35,1,Guinea
+Guinea-Bissau,23,1,Guinea-Bissau
+Guyana,35,1,Guyana
+Haiti,30,1,Haiti
+Honduras,36,1,Honduras
+Hungary,44,1,Hungary
+Iceland,110,1,Iceland
+India,109,1,India
+Indonesia,103,1,Indonesia
+International,64,NA,International
+Iran,110,1,Iran
+Iraq,108,1,Iraq
+Ireland,108,1,Ireland
+Isle of Man,29,1,Isle of Man
+Israel,107,1,Israel
+Italy,110,1,Italy
+Jamaica,37,1,Jamaica
+Japan,110,1,Japan
+Jersey,30,1,Jersey
+Jordan,37,1,Jordan
+Kazakhstan,35,1,Kazakhstan
+Kenya,36,1,Kenya
+Kosovo,34,1,Kosovo
+Kuwait,107,1,Kuwait
+Kyrgyzstan,31,1,Kyrgyzstan
+Laos,25,1,Laos
+Latvia,43,1,Latvia
+Lebanon,106,1,Lebanon
+Liberia,33,1,Liberia
+Libya,25,1,Libya
+Liechtenstein,39,1,Liechtenstein
+Lithuania,101,1,Lithuania
+Luxembourg,103,1,Luxembourg
+Macedonia,101,1,Macedonia
+Madagascar,29,1,Madagascar
+Malawi,16,1,Malawi
+Malaysia,109,1,Malaysia
+Maldives,40,1,Maldives
+Mali,24,1,Mali
+Malta,40,1,Malta
+Mauritania,35,1,Mauritania
+Mauritius,30,1,Mauritius
+Mexico,102,1,Mexico
+Moldova,40,1,Moldova
+Monaco,98,1,Monaco
+Mongolia,34,1,Mongolia
+Montenegro,32,1,Montenegro
+Montserrat,28,1,Montserrat
+Morocco,40,1,Morocco
+Mozambique,27,1,Mozambique
+Myanmar,27,1,Myanmar
+Namibia,35,1,Namibia
+Nepal,97,1,Nepal
+Netherlands,110,1,Netherlands
+New Caledonia,29,1,New Caledonia
+New Zealand,101,1,New Zealand
+Nicaragua,31,1,Nicaragua
+Niger,29,1,Niger
+Nigeria,99,1,Nigeria
+Northern Mariana Islands,19,1,Northern Mariana Islands
+Norway,110,1,Norway
+Oman,104,1,Oman
+Pakistan,105,1,Pakistan
+Palestine,41,1,Palestine
+Panama,40,1,Panama
+Papua New Guinea,29,1,Papua New Guinea
+Paraguay,38,1,Paraguay
+Peru,42,1,Peru
+Philippines,106,1,Philippines
+Poland,44,1,Poland
+Portugal,47,1,Portugal
+Puerto Rico,22,1,Puerto Rico
+Qatar,106,1,Qatar
+Romania,108,1,Romania
+Russia,105,1,Russia
+Rwanda,35,1,Rwanda
+Saint Kitts and Nevis,24,NA,Nevis
+Saint Lucia,35,1,Saint Lucia
+Saint Vincent and the Grenadines,26,NA,Grenadines
+San Marino,109,1,San Marino
+Sao Tome and Principe,10,1,Sao Tome and Principe
+Saudi Arabia,44,1,Saudi Arabia
+Senegal,40,1,Senegal
+Serbia,40,1,Serbia
+Seychelles,35,1,Seychelles
+Sierra Leone,18,1,Sierra Leone
+Singapore,110,1,Singapore
+Sint Maarten (Dutch part),24,NA,Sint Maarten
+Slovakia,42,1,Slovakia
+Slovenia,44,1,Slovenia
+Somalia,33,1,Somalia
+South Africa,42,1,South Africa
+South Korea,110,1,South Korea
+South Sudan,13,1,South Sudan
+Spain,110,1,Spain
+Sri Lanka,101,1,Sri Lanka
+Sudan,36,1,Sudan
+Suriname,30,1,Suriname
+Swaziland,35,1,Swaziland
+Sweden,110,1,Sweden
+Switzerland,110,1,Switzerland
+Syria,27,1,Syria
+Taiwan,108,1,Taiwan
+Tanzania,33,1,Tanzania
+Thailand,103,1,Thailand
+Timor,28,NA,Timor-Leste
+Togo,36,1,Togo
+Trinidad and Tobago,37,NA,Trinidad
+Tunisia,41,1,Tunisia
+Turkey,36,1,Turkey
+Turks and Caicos Islands,25,1,Turks and Caicos Islands
+Uganda,28,1,Uganda
+Ukraine,36,1,Ukraine
+United Arab Emirates,104,1,United Arab Emirates
+United Kingdom,110,NA,UK
+United States,110,NA,USA
+United States Virgin Islands,25,NA,
+Uruguay,35,1,Uruguay
+Uzbekistan,34,1,Uzbekistan
+Vatican,35,1,Vatican
+Venezuela,35,1,Venezuela
+Vietnam,106,1,Vietnam
+World,110,NA,
+Yemen,9,1,Yemen
+Zambia,31,1,Zambia
+Zimbabwe,29,1,Zimbabwe
