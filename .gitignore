@@ -2,4 +2,6 @@ example
 *.ipynb
 *.Rmd
 *.nb.html
+*.RData
+*.Rhistory
 

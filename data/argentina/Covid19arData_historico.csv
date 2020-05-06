@@ -619,38 +619,47 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 30/04/2020,57,41,Argentina,Tierra del Fuego,,4425,2,218,0,,,,,,,,,tierra-del-fuego
 30/04/2020,57,41,Argentina,Tucumán,,4427,2,218,0,,,,,,,,,tucuman
 30/04/2020,57,41,Argentina,Indeterminado,,4427,0,218,0,1292,159,46828,51256,,,,,no-data
-1/05/2020,58,42,Argentina,Buenos Aires,,4461,34,222,4,,,,,,,,,buenos-aires
-1/05/2020,58,42,Argentina,CABA,,4490,29,227,5,,,,,,,,,capital-federal
-1/05/2020,58,42,Argentina,Chaco,,4502,12,229,2,,,,,,,,,chaco
-1/05/2020,58,42,Argentina,Chubut,,4503,1,229,0,,,,,,,,,chubut
-1/05/2020,58,42,Argentina,Córdoba,,4516,13,229,0,,,,,,,,,cordoba
-1/05/2020,58,42,Argentina,Corrientes,,4517,1,229,0,,,,,,,,,corrientes
-1/05/2020,58,42,Argentina,Entre Ríos,,4519,2,229,0,,,,,,,,,entre-rios
-1/05/2020,58,42,Argentina,La Rioja,,4522,3,229,0,,,,,,,,,la-rioja
-1/05/2020,58,42,Argentina,Mendoza,,4523,1,229,0,,,,,,,,,mendoza
-1/05/2020,58,42,Argentina,Río Negro,,4531,8,229,0,,,,,,,,,rio-negro
-1/05/2020,58,42,Argentina,Tierra del Fuego,,4532,1,229,0,,,,,,,,,tierra-del-fuego
-1/05/2020,58,42,Argentina,Indeterminado,,4532,0,229,0,1320,164,47467,61530,,,,,no-data
-2/05/2020,59,43,Argentina,Santa Fe,,4532,0,229,0,,,,,,,,,santa-fe
-2/05/2020,59,43,Argentina,CABA, ,4590,58,237,8,,,,,,,https://www.unosantafe.com.ar/el-pais/son-237-los-muertos-coronavirus-el-pais-y-son-4681-los-infectados-n2581720.html,,capital-federal
-2/05/2020,59,43,Argentina,Buenos Aires, ,4635,45,239,2,,,,,,,,,buenos-aires
-2/05/2020,59,43,Argentina,Córdoba,,4647,12,240,1,,,,,,,,,cordoba
-2/05/2020,59,43,Argentina,Misiones,,4659,12,240,0,,,,,,,,,misiones
-2/05/2020,59,43,Argentina,Chaco,,4670,11,241,1,,,,,,,,,chaco
-2/05/2020,59,43,Argentina,Río Negro,,4676,6,241,0,,,,,,,,,rio-negro
-2/05/2020,59,43,Argentina,Tierra del Fuego,,4679,3,241,0,,,,,,,,,tierra-del-fuego
-2/05/2020,59,43,Argentina,Chubut,,4680,1,241,0,,,,,,,,,chubut
-2/05/2020,59,43,Argentina,Mendoza,,4680,0,241,0,,,,,,,,se quita 1 caso confirmado en el parte del 3/5/2020,mendoza
-2/05/2020,59,43,Argentina,Indeterminado,,4680,0,241,0,1354,161,50098,54779,,,,,no-data
-3/05/2020,60,44,Argentina,Santa Fe,,4680,0,241,0,,,,,,,,,santa-fe
-3/05/2020,60,44,Argentina,CABA, ,4729,49,242,1,,,,,,,,,capital-federal
-3/05/2020,60,44,Argentina,Buenos Aires, ,4767,38,243,1,,,,,,,,,buenos-aires
-3/05/2020,60,44,Argentina,Córdoba,,4768,1,245,2,,,,,,,,,cordoba
-3/05/2020,60,44,Argentina,Misiones,,4768,0,245,0,,,,,,,,,misiones
-3/05/2020,60,44,Argentina,Chaco,,4773,5,245,0,,,,,,,,,chaco
-3/05/2020,60,44,Argentina,Río Negro,,4779,6,246,1,,,,,,,,,rio-negro
-3/05/2020,60,44,Argentina,Tierra del Fuego,,4781,2,246,0,,,,,,,,,tierra-del-fuego
-3/05/2020,60,44,Argentina,Chubut,,4781,0,246,0,,,,,,,,,chubut
-3/05/2020,60,44,Argentina,Mendoza,,4781,0,246,0,,,,,,,https://www.argentina.gob.ar/sites/default/files/03-05-20_reporte_vespertino_covid_19.pdf,"En el día de hoy, Mendoza reclasificó uno de sus casos que figuraba como confirmado, a descartado, por un error de carga",mendoza
-3/05/2020,60,44,Argentina,Entre Ríos,,4783,2,246,0,,,,,,,,,entre-rios
-3/05/2020,60,44,Argentina,Indeterminado,,4783,0,246,0,1442,146,,,,,,,no-data
+1/05/2020,58,42,Argentina,Buenos Aires,,4461,34,221,3,,,,,,,,,buenos-aires
+1/05/2020,58,42,Argentina,CABA,,4490,29,225,4,,,,,,,,,capital-federal
+1/05/2020,58,42,Argentina,Chaco,,4502,12,225,0,,,,,,,,,chaco
+1/05/2020,58,42,Argentina,Chubut,,4503,1,225,0,,,,,,,,,chubut
+1/05/2020,58,42,Argentina,Córdoba,,4516,13,225,0,,,,,,,,,cordoba
+1/05/2020,58,42,Argentina,Corrientes,,4516,0,225,0,,,,,,,,se quita 1 caso confirmado en el parte del 4/5/2020,corrientes
+1/05/2020,58,42,Argentina,Entre Ríos,,4518,2,225,0,,,,,,,,,entre-rios
+1/05/2020,58,42,Argentina,La Rioja,,4521,3,225,0,,,,,,,,,la-rioja
+1/05/2020,58,42,Argentina,Mendoza,,4522,1,225,0,,,,,,,,,mendoza
+1/05/2020,58,42,Argentina,Río Negro,,4530,8,225,0,,,,,,,,,rio-negro
+1/05/2020,58,42,Argentina,Tierra del Fuego,,4531,1,225,0,,,,,,,,,tierra-del-fuego
+1/05/2020,58,42,Argentina,Indeterminado,,4531,0,225,0,1320,164,47467,61530,,,,,no-data
+2/05/2020,59,43,Argentina,Santa Fe,,4531,0,225,0,,,,,,,,,santa-fe
+2/05/2020,59,43,Argentina,CABA, ,4589,58,233,8,,,,,,,https://www.unosantafe.com.ar/el-pais/son-237-los-muertos-coronavirus-el-pais-y-son-4681-los-infectados-n2581720.html,,capital-federal
+2/05/2020,59,43,Argentina,Buenos Aires, ,4634,45,235,2,,,,,,,,,buenos-aires
+2/05/2020,59,43,Argentina,Córdoba,,4646,12,236,1,,,,,,,,,cordoba
+2/05/2020,59,43,Argentina,Misiones,,4658,12,236,0,,,,,,,,,misiones
+2/05/2020,59,43,Argentina,Chaco,,4669,11,237,1,,,,,,,,,chaco
+2/05/2020,59,43,Argentina,Río Negro,,4675,6,237,0,,,,,,,,,rio-negro
+2/05/2020,59,43,Argentina,Tierra del Fuego,,4678,3,237,0,,,,,,,,,tierra-del-fuego
+2/05/2020,59,43,Argentina,Chubut,,4679,1,237,0,,,,,,,,,chubut
+2/05/2020,59,43,Argentina,Mendoza,,4679,0,237,0,,,,,,,,se quita 1 caso confirmado en el parte del 3/5/2020,mendoza
+2/05/2020,59,43,Argentina,Indeterminado,,4679,0,237,0,1354,161,50098,54779,,,,,no-data
+3/05/2020,60,44,Argentina,Santa Fe,,4679,0,237,0,,,,,,,,,santa-fe
+3/05/2020,60,44,Argentina,CABA, ,4728,49,239,2,,,,,,,,,capital-federal
+3/05/2020,60,44,Argentina,Buenos Aires, ,4766,38,242,3,,,,,,,,,buenos-aires
+3/05/2020,60,44,Argentina,Córdoba,,4767,1,244,2,,,,,,,,,cordoba
+3/05/2020,60,44,Argentina,Misiones,,4767,0,244,0,,,,,,,,,misiones
+3/05/2020,60,44,Argentina,Chaco,,4772,5,245,1,,,,,,,,,chaco
+3/05/2020,60,44,Argentina,Río Negro,,4778,6,246,1,,,,,,,,,rio-negro
+3/05/2020,60,44,Argentina,Tierra del Fuego,,4780,2,246,0,,,,,,,,,tierra-del-fuego
+3/05/2020,60,44,Argentina,Chubut,,4780,0,246,0,,,,,,,,,chubut
+3/05/2020,60,44,Argentina,Mendoza,,4780,0,246,0,,,,,,,https://www.argentina.gob.ar/sites/default/files/03-05-20_reporte_vespertino_covid_19.pdf,"En el día de hoy, Mendoza reclasificó uno de sus casos que figuraba como confirmado, a descartado, por un error de carga",mendoza
+3/05/2020,60,44,Argentina,Entre Ríos,,4782,2,246,0,,,,,,,,,entre-rios
+3/05/2020,60,44,Argentina,Indeterminado,,4782,0,246,0,1442,146,,,,,,,no-data
+4/05/2020,61,45,Argentina,Buenos Aires,,4820,38,253,7,,,,,,,,,buenos-aires
+4/05/2020,61,45,Argentina,CABA,,4863,43,257,4,,,,,,,,,capital-federal
+4/05/2020,61,45,Argentina,Chaco,,4868,5,258,1,,,,,,,,,chaco
+4/05/2020,61,45,Argentina,Córdoba,,4874,6,260,2,,,,,,,,,cordoba
+4/05/2020,61,45,Argentina,La Rioja,,4875,1,260,0,,,,,,,,,la-rioja
+4/05/2020,61,45,Argentina,Misiones,,4876,1,260,0,,,,,,,,,misiones
+4/05/2020,61,45,Argentina,Río Negro,,4883,7,260,0,,,,,,,,,rio-negro
+4/05/2020,61,45,Argentina,Tucumán,,4886,3,260,0,,,,,,,,,tucuman
+4/05/2020,61,45,Argentina,Indeterminado,,4886,0,260,0,,,,,,,,,no-data
