@@ -653,7 +653,7 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 3/05/2020,60,44,Argentina,Chubut,,4780,0,246,0,,,,,,,,,chubut
 3/05/2020,60,44,Argentina,Mendoza,,4780,0,246,0,,,,,,,https://www.argentina.gob.ar/sites/default/files/03-05-20_reporte_vespertino_covid_19.pdf,"En el día de hoy, Mendoza reclasificó uno de sus casos que figuraba como confirmado, a descartado, por un error de carga",mendoza
 3/05/2020,60,44,Argentina,Entre Ríos,,4782,2,246,0,,,,,,,,,entre-rios
-3/05/2020,60,44,Argentina,Indeterminado,,4782,0,246,0,1442,146,,,,,,,no-data
+3/05/2020,60,44,Argentina,Indeterminado,,4782,0,246,0,1442,146,51590,56372,,,,,no-data
 4/05/2020,61,45,Argentina,Buenos Aires,,4820,38,253,7,,,,,,,,,buenos-aires
 4/05/2020,61,45,Argentina,CABA,,4863,43,257,4,,,,,,,,,capital-federal
 4/05/2020,61,45,Argentina,Chaco,,4868,5,258,1,,,,,,,,,chaco
@@ -662,7 +662,7 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 4/05/2020,61,45,Argentina,Misiones,,4876,1,260,0,,,,,,,,,misiones
 4/05/2020,61,45,Argentina,Río Negro,,4883,7,260,0,,,,,,,,,rio-negro
 4/05/2020,61,45,Argentina,Tucumán,,4886,3,260,0,,,,,,,,,tucuman
-4/05/2020,61,45,Argentina,Indeterminado,,4886,0,260,0,1524,,,,,,,,no-data
+4/05/2020,61,45,Argentina,Indeterminado,,4886,0,260,0,1472,148,53203,58089,,,,,no-data
 5/05/2020,62,46,Argentina,Buenos Aires,,4944,58,261,1,,,,,,,,,
 5/05/2020,62,46,Argentina,CABA,,5001,57,262,1,,,,,,,,,
 5/05/2020,62,46,Argentina,Chaco,,5012,11,262,0,,,,,,,,,
@@ -671,7 +671,7 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 5/05/2020,62,46,Argentina,Santa Fe,,5018,1,264,0,,,,,,,,,
 5/05/2020,62,46,Argentina,Mendoza,,5019,1,264,0,,,,,,,,,
 5/05/2020,62,46,Argentina,Entre Ríos,,5020,1,264,0,,,,,,,,,
-5/05/2020,62,46,Argentina,Indeterminado,,5020,0,264,0,,,,,,,,,no-data
+5/05/2020,62,46,Argentina,Indeterminado,,5020,0,264,0,1524,143,55227,60247,,,,,no-data
 6/05/2020,63,47,Argentina,Buenos Aires,,5083,63,269,5,,,,,,,,,
 6/05/2020,63,47,Argentina,CABA,,5185,102,271,2,,,,,,,,,
 6/05/2020,63,47,Argentina,Chaco,,5193,8,272,1,,,,,,,,,
@@ -679,13 +679,23 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 6/05/2020,63,47,Argentina,Corrientes,,5201,3,272,0,,,,,,,,,
 6/05/2020,63,47,Argentina,La Rioja,,5202,1,272,0,,,,,,,,,
 6/05/2020,63,47,Argentina,Río Negro,,5208,6,273,1,,,,,,,,,
-6/05/2020,63,47,Argentina,Indeterminado,,5208,0,273,0,,,,,,,,,no-data
-7/05/2020,64,48,Argentina,Buenos Aires,,5258,50,279,6,,,,,,,,,
-7/05/2020,64,48,Argentina,CABA,,5335,77,281,2,,,,,,,,,
-7/05/2020,64,48,Argentina,Chaco,,5361,26,281,0,,,,,,,,,
-7/05/2020,64,48,Argentina,Córdoba,,5365,4,281,0,,,,,,,,,
-7/05/2020,64,48,Argentina,Corrientes,,5366,1,281,0,,,,,,,,,
-7/05/2020,64,48,Argentina,La Rioja,,5367,1,281,0,,,,,,,,,
-7/05/2020,64,48,Argentina,Río Negro,,5370,3,281,0,,,,,,,,,
-7/05/2020,64,48,Argentina,San Juan,,5371,1,281,0,,,,,,,,,
-7/05/2020,64,48,Argentina,Santa Fe,,5371,0,282,1,,,,,,,,,
+6/05/2020,63,47,Argentina,Indeterminado,,5208,0,273,0,1601,151,57176,62384,,,,,no-data
+7/05/2020,64,48,Argentina,Buenos Aires,,5258,50,279,6,,,,,,,,,buenos-aires
+7/05/2020,64,48,Argentina,CABA,,5335,77,281,2,,,,,,,,,capital-federal
+7/05/2020,64,48,Argentina,Chaco,,5361,26,281,0,,,,,,,,,chaco
+7/05/2020,64,48,Argentina,Córdoba,,5365,4,281,0,,,,,,,,,chaco
+7/05/2020,64,48,Argentina,Corrientes,,5366,1,281,0,,,,,,,,,corrientes
+7/05/2020,64,48,Argentina,La Rioja,,5367,1,281,0,,,,,,,,,la-rioja
+7/05/2020,64,48,Argentina,Río Negro,,5370,3,281,0,,,,,,,,,rio-negro
+7/05/2020,64,48,Argentina,San Juan,,5371,1,281,0,,,,,,,,,san-juan
+7/05/2020,64,48,Argentina,Santa Fe,,5371,0,282,1,,,,,,,,,santa-fe
+7/05/2020,64,48,Argentina,Indeterminado,,5371,0,282,0,1659,155,59080,64451,,,,,no-data
+8/05/2020,65,49,Argentina,Buenos Aires,,5376,77,287,5,,,,,,,,,
+8/05/2020,65,49,Argentina,CABA,,5382,130,293,6,,,,,,,,,
+8/05/2020,65,49,Argentina,Chaco,,5408,26,293,0,,,,,,,,,
+8/05/2020,65,49,Argentina,Córdoba,,5410,2,293,0,,,,,,,,,
+8/05/2020,65,49,Argentina,Corrientes,,5411,1,293,0,,,,,,,,,
+8/05/2020,65,49,Argentina,La Rioja,,5412,1,293,0,,,,,,,,,
+8/05/2020,65,49,Argentina,Río Negro,,5412,,293,0,,,,,,,,,
+8/05/2020,65,49,Argentina,San Juan,,5412,,293,0,,,,,,,,,
+8/05/2020,65,49,Argentina,Santa Fe,,5412,,293,0,,,,,,,,,
