@@ -4,5 +4,5 @@ example
 *.nb.html
 *.RData
 *.Rhistory
-*.run.sh
+run.sh
 
