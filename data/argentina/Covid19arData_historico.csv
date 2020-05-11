@@ -699,28 +699,29 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 8/05/2020,65,49,Argentina,Mendoza,,5609,1,293,0,,,,,,,,,mendoza
 8/05/2020,65,49,Argentina,Río Negro,,5611,2,293,0,,,,,,,,,rio-negro
 8/05/2020,65,49,Argentina,Santa Fe,,5611,0,293,0,,,,,,,,,santa-fe
-8/05/2020,65,49,Argentina,Indeterminado,,5611,0,293,0,,,,,,,,,no-data
-9/05/2020,66,50,Argentina,Buenos Aires,,5671,60,297,4,,,,,,,,,
-9/05/2020,66,50,Argentina,CABA,,5754,83,299,2,,,,,,,,,
-9/05/2020,66,50,Argentina,Chaco,,5763,9,299,0,,,,,,,,,
-9/05/2020,66,50,Argentina,Córdoba,,5769,6,299,0,,,,,,,,,
-9/05/2020,66,50,Argentina,Corrientes,,5770,1,299,0,,,,,,,,,
-9/05/2020,66,50,Argentina,La Rioja,,5770,0,300,1,,,,,,,,,
-9/05/2020,66,50,Argentina,Neuquén,,5771,1,300,0,,,,,,,,,
-9/05/2020,66,50,Argentina,Mendoza,,5771,0,300,0,,,,,,,,,
-9/05/2020,66,50,Argentina,Río Negro,,5775,4,300,0,,,,,,,,,
-9/05/2020,66,50,Argentina,Santa Fe,,5775,0,300,0,,,,,,,,,
-9/05/2020,66,50,Argentina,Tierra del Fuego,,5776,1,300,0,,,,,,,,,
-9/05/2020,66,50,Argentina,Indeterminado,,5776,0,300,0,,,,,,,,,
-10/05/2020,67,51,Argentina,Buenos Aires,,5827,51,304,4,,,,,,,,,
-10/05/2020,67,51,Argentina,CABA,,5992,165,305,1,,,,,,,,,
-10/05/2020,67,51,Argentina,Chaco,,6024,32,305,0,,,,,,,,,
-10/05/2020,67,51,Argentina,Córdoba,,6029,5,305,0,,,,,,,,,
-10/05/2020,67,51,Argentina,Corrientes,,6029,0,305,0,,,,,,,,,
-10/05/2020,67,51,Argentina,La Rioja,,6029,0,305,0,,,,,,,,,
-10/05/2020,67,51,Argentina,Neuquén,,6029,0,305,0,,,,,,,,,
-10/05/2020,67,51,Argentina,Mendoza,,6029,0,305,0,,,,,,,,,
-10/05/2020,67,51,Argentina,Río Negro,,6031,2,305,0,,,,,,,,,
-10/05/2020,67,51,Argentina,Santa Fe,,6031,0,305,0,,,,,,,,,
-10/05/2020,67,51,Argentina,Santiago del Estero,,6032,1,305,0,,,,,,,,,
-10/05/2020,67,51,Argentina,Tierra del Fuego,,6034,2,305,0,,,,,,,,,
+8/05/2020,65,49,Argentina,Indeterminado,,5611,0,293,0,1728,157,61025,66636,,,,,no-data
+9/05/2020,66,50,Argentina,Buenos Aires,,5671,60,297,4,,,,,,,,,buenos-aires
+9/05/2020,66,50,Argentina,CABA,,5754,83,299,2,,,,,,,,,capital-federal
+9/05/2020,66,50,Argentina,Chaco,,5763,9,299,0,,,,,,,,,chaco
+9/05/2020,66,50,Argentina,Córdoba,,5769,6,299,0,,,,,,,,,cordoba
+9/05/2020,66,50,Argentina,Corrientes,,5770,1,299,0,,,,,,,,,corrientes
+9/05/2020,66,50,Argentina,La Rioja,,5770,0,300,1,,,,,,,,,la-rioja
+9/05/2020,66,50,Argentina,Neuquén,,5771,1,300,0,,,,,,,,,neuquen
+9/05/2020,66,50,Argentina,Mendoza,,5771,0,300,0,,,,,,,,,mendoza
+9/05/2020,66,50,Argentina,Río Negro,,5775,4,300,0,,,,,,,,,rio-negro
+9/05/2020,66,50,Argentina,Santa Fe,,5775,0,300,0,,,,,,,,,santa-fe
+9/05/2020,66,50,Argentina,Tierra del Fuego,,5776,1,300,0,,,,,,,,,tierra-del-fuego
+9/05/2020,66,50,Argentina,Indeterminado,,5776,0,300,0,1757,160,62760,68536,,,,,no-data
+10/05/2020,67,51,Argentina,Buenos Aires,,5827,51,304,4,,,,,,,,,buenos-aires
+10/05/2020,67,51,Argentina,CABA,,5992,165,305,1,,,,,,,,,capital-federal
+10/05/2020,67,51,Argentina,Chaco,,6024,32,305,0,,,,,,,,,chaco
+10/05/2020,67,51,Argentina,Córdoba,,6029,5,305,0,,,,,,,,,cordoba
+10/05/2020,67,51,Argentina,Corrientes,,6029,0,305,0,,,,,,,,,corrientes
+10/05/2020,67,51,Argentina,La Rioja,,6029,0,305,0,,,,,,,,,la-rioja
+10/05/2020,67,51,Argentina,Neuquén,,6029,0,305,0,,,,,,,,,neuquen
+10/05/2020,67,51,Argentina,Mendoza,,6029,0,305,0,,,,,,,,,mendoza
+10/05/2020,67,51,Argentina,Río Negro,,6031,2,305,0,,,,,,,,,rio-negro
+10/05/2020,67,51,Argentina,Santa Fe,,6031,0,305,0,,,,,,,,,santa-fe
+10/05/2020,67,51,Argentina,Santiago del Estero,,6032,1,305,0,,,,,,,,,santiago-del-estero
+10/05/2020,67,51,Argentina,Tierra del Fuego,,6034,2,305,0,,,,,,,,,tierra-del-fuego
+10/05/2020,67,51,Argentina,Indeterminado,,6034,0,305,0,1837,,64817,,,,,,no-data
