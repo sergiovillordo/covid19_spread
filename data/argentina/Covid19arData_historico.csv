@@ -724,16 +724,31 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 10/05/2020,67,51,Argentina,Santa Fe,,6031,0,305,0,,,,,,,,,santa-fe
 10/05/2020,67,51,Argentina,Santiago del Estero,,6032,1,305,0,,,,,,,,,santiago-del-estero
 10/05/2020,67,51,Argentina,Tierra del Fuego,,6034,2,305,0,,,,,,,,,tierra-del-fuego
-10/05/2020,67,51,Argentina,Indeterminado,,6034,0,305,0,1837,,64817,,,,,,no-data
-11/05/2020,68,52,Argentina,Buenos Aires,,6078,44,309,4,,,,,,,,,
-11/05/2020,68,52,Argentina,CABA,,6215,137,312,3,,,,,,,,,
-11/05/2020,68,52,Argentina,Chaco,,6232,17,313,1,,,,,,,,,
-11/05/2020,68,52,Argentina,Córdoba,,6246,14,313,0,,,,,,,,,
-11/05/2020,68,52,Argentina,Corrientes,,6262,16,313,0,,,,,,,,,
-11/05/2020,68,52,Argentina,La Rioja,,6263,1,313,0,,,,,,,,,
-11/05/2020,68,52,Argentina,Neuquén,,6263,0,313,0,,,,,,,,,
-11/05/2020,68,52,Argentina,Misiones,,6264,1,313,0,,,,,,,,,
-11/05/2020,68,52,Argentina,Río Negro,,6277,13,314,1,,,,,,,,,
-11/05/2020,68,52,Argentina,Santa Fe,,6277,0,314,0,,,,,,,,,
-11/05/2020,68,52,Argentina,Santiago del Estero,,6277,0,314,0,,,,,,,,,
-11/05/2020,68,52,Argentina,Tucumán,,6278,1,314,0,,,,,,,,,
+10/05/2020,67,51,Argentina,Indeterminado,,6034,0,305,0,1837,164,64104,70138,,,,,no-data
+11/05/2020,68,52,Argentina,Buenos Aires,,6078,44,309,4,,,,,,,,,buenos-aires
+11/05/2020,68,52,Argentina,CABA,,6215,137,312,3,,,,,,,,,capital-federal
+11/05/2020,68,52,Argentina,Chaco,,6232,17,313,1,,,,,,,,,chaco
+11/05/2020,68,52,Argentina,Córdoba,,6246,14,313,0,,,,,,,,,cordoba
+11/05/2020,68,52,Argentina,Corrientes,,6262,16,313,0,,,,,,,,,corrientes
+11/05/2020,68,52,Argentina,La Rioja,,6263,1,313,0,,,,,,,,,la-rioja
+11/05/2020,68,52,Argentina,Neuquén,,6263,0,313,0,,,,,,,,,neuquen
+11/05/2020,68,52,Argentina,Misiones,,6264,1,313,0,,,,,,,,,misiones
+11/05/2020,68,52,Argentina,Río Negro,,6277,13,314,1,,,,,,,,,rio-negro
+11/05/2020,68,52,Argentina,Santa Fe,,6277,0,314,0,,,,,,,,,santa-fe
+11/05/2020,68,52,Argentina,Santiago del Estero,,6277,0,314,0,,,,,,,,,santiago-del-estero
+11/05/2020,68,52,Argentina,Tucumán,,6278,1,314,0,,,,,,,,,tucuman
+11/05/2020,68,52,Argentina,Indeterminado,,6278,0,314,0,1862,170,65976,72254,,,,,no-data
+12/05/2020,69,53,Argentina,Buenos Aires,,6358,80,316,2,,,,,,,,,buenos-aires
+12/05/2020,69,53,Argentina,CABA,,6546,188,317,1,,,,,,,,,capital-federal
+12/05/2020,69,53,Argentina,Chaco,,6556,10,318,1,,,,,,,,,chaco
+12/05/2020,69,53,Argentina,Córdoba,,6559,3,319,1,,,,,,,,,cordoba
+12/05/2020,69,53,Argentina,Corrientes,,6560,1,319,0,,,,,,,,,corrientes
+12/05/2020,69,53,Argentina,La Rioja,,6560,0,319,0,,,,,,,,,la-rioja
+12/05/2020,69,53,Argentina,Mendoza,,6561,1,319,0,,,,,,,,,mendoza
+12/05/2020,69,53,Argentina,Neuquén,,6561,0,319,0,,,,,,,,,neuquen
+12/05/2020,69,53,Argentina,Río Negro,,6562,1,319,0,,,,,,,,,rio-negro
+12/05/2020,69,53,Argentina,Salta,,6563,1,319,0,,,,,,,,,salta
+12/05/2020,69,53,Argentina,Santa Fe,,6563,0,319,0,,,,,,,,,santa-fe
+12/05/2020,69,53,Argentina,Santiago del Estero,,6563,0,319,0,,,,,,,,,santiago-del-estero
+12/05/2020,69,53,Argentina,Tucumán,,6563,0,319,0,,,,,,,,,tucuman
+13/05/2020,70,54,Argentina,Indeterminado,,6563,0,319,0,,,,,,,,,no-data
