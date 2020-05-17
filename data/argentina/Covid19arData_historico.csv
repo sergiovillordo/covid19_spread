@@ -759,47 +759,47 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 13/05/2020,70,54,Argentina,Corrientes,,6872,5,329,0,,,,,,,,,corrientes
 13/05/2020,70,54,Argentina,Entre Ríos,,6873,1,329,0,,,,,,,,,entre-rios
 13/05/2020,70,54,Argentina,La Rioja,,6873,0,329,0,,,,,,,,,la-rioja
-13/05/2020,70,54,Argentina,Mendoza,,6874,1,329,0,,,,,,,,,mendoza
-13/05/2020,70,54,Argentina,Misiones,,6873,-1,329,0,,,,,,,,,misiones
-13/05/2020,70,54,Argentina,Neuquén,,6875,2,329,0,,,,,,,,,neuquen
-13/05/2020,70,54,Argentina,Río Negro,,6879,4,329,0,,,,,,,,,rio-negro
-13/05/2020,70,54,Argentina,Salta,,6879,0,329,0,,,,,,,,,salta
-13/05/2020,70,54,Argentina,Santa Fe,,6879,0,329,0,,,,,,,,,santa-fe
-13/05/2020,70,54,Argentina,Santiago del Estero,,6879,0,329,0,,,,,,,,,santiago-del-estero
-13/05/2020,70,54,Argentina,Tucumán,,6879,0,329,0,,,,,,,,,tucuman
-13/05/2020,70,54,Argentina,Indeterminado,,6879,0,329,0,2385,147,70497,77376,,,,,no-data
-14/05/2020,71,55,Argentina,Buenos Aires,,6958,79,341,12,,,,,,,,,buenos-aires
-14/05/2020,71,55,Argentina,CABA,,7111,153,350,9,,,,,,,,"**Un  caso  confirmado  de  la  provincia  de  Misiones,  fue  reclasificado  a  Ciudad  de  Buenos Aires (CABA).",capital-federal
-14/05/2020,71,55,Argentina,Chaco,,7120,9,351,1,,,,,,,,,chaco
-14/05/2020,71,55,Argentina,Córdoba,,7125,5,352,1,,,,,,,,,cordoba
-14/05/2020,71,55,Argentina,Corrientes,,7128,3,352,0,,,,,,,,,corrientes
-14/05/2020,71,55,Argentina,Entre Ríos,,7129,1,352,0,,,,,,,,,entre-rios
-14/05/2020,71,55,Argentina,La Rioja,,7129,0,352,0,,,,,,,,,la-rioja
-14/05/2020,71,55,Argentina,Mendoza,,7129,0,352,0,,,,,,,,,mendoza
-14/05/2020,71,55,Argentina,Misiones,,7129,0,352,0,,,,,,,,,misiones
-14/05/2020,71,55,Argentina,Neuquén,,7130,1,352,0,,,,,,,,,neuquen
-14/05/2020,71,55,Argentina,Río Negro,,7134,4,353,1,,,,,,,,,rio-negro
-14/05/2020,71,55,Argentina,Salta,,7134,0,353,0,,,,,,,,,salta
-14/05/2020,71,55,Argentina,Santa Fe,,7134,0,353,0,,,,,,,,,santa-fe
-14/05/2020,71,55,Argentina,Santiago del Estero,,7134,0,353,0,,,,,,,,,santiago-del-estero
-14/05/2020,71,55,Argentina,Tucumán,,7134,0,353,0,,,,,,,,,tucuman
-14/05/2020,71,55,Argentina,Indeterminado,,7134,0,353,0,,,70497,77376,,,,,no-data
-15/05/2020,72,56,Argentina,Buenos Aires,,7220,86,355,2,,,,,,,,,buenos-aires
-15/05/2020,72,56,Argentina,CABA,,7435,215,355,0,,,,,,,,"**Un  caso  confirmado  de  la  provincia  de  Misiones,  fue  reclasificado  a  Ciudad  de  Buenos Aires (CABA).",capital-federal
-15/05/2020,72,56,Argentina,Chaco,,7460,25,356,1,,,,,,,,,chaco
-15/05/2020,72,56,Argentina,Córdoba,,7463,3,356,0,,,,,,,,,cordoba
-15/05/2020,72,56,Argentina,Corrientes,,7463,0,356,0,,,,,,,,,corrientes
-15/05/2020,72,56,Argentina,Entre Ríos,,7462,-1,356,0,,,,,,,,,entre-rios
-15/05/2020,72,56,Argentina,La Rioja,,7462,0,356,0,,,,,,,,,la-rioja
-15/05/2020,72,56,Argentina,Mendoza,,7462,0,356,0,,,,,,,,,mendoza
-15/05/2020,72,56,Argentina,Misiones,,7462,0,356,0,,,,,,,,,misiones
-15/05/2020,72,56,Argentina,Neuquén,,7462,0,356,0,,,,,,,,,neuquen
-15/05/2020,72,56,Argentina,Río Negro,,7479,17,356,0,,,,,,,,,rio-negro
-15/05/2020,72,56,Argentina,Salta,,7479,0,356,0,,,,,,,,,salta
-15/05/2020,72,56,Argentina,Santa Fe,,7479,0,356,0,,,,,,,,,santa-fe
-15/05/2020,72,56,Argentina,Santiago del Estero,,7479,0,356,0,,,,,,,,,santiago-del-estero
-15/05/2020,72,56,Argentina,Tucumán,,7479,0,356,0,,,,,,,,,tucuman
-15/05/2020,72,56,Argentina,Indeterminado,,7478,-1,356,0,,,70497,77376,,,,,no-data
+13/05/2020,70,54,Argentina,Mendoza,,6873,0,329,0,,,,,,,,,mendoza
+13/05/2020,70,54,Argentina,Misiones,,6872,-1,329,0,,,,,,,,,misiones
+13/05/2020,70,54,Argentina,Neuquén,,6874,2,329,0,,,,,,,,,neuquen
+13/05/2020,70,54,Argentina,Río Negro,,6878,4,329,0,,,,,,,,,rio-negro
+13/05/2020,70,54,Argentina,Salta,,6878,0,329,0,,,,,,,,,salta
+13/05/2020,70,54,Argentina,Santa Fe,,6878,0,329,0,,,,,,,,,santa-fe
+13/05/2020,70,54,Argentina,Santiago del Estero,,6878,0,329,0,,,,,,,,,santiago-del-estero
+13/05/2020,70,54,Argentina,Tucumán,,6878,0,329,0,,,,,,,,,tucuman
+13/05/2020,70,54,Argentina,Indeterminado,,6878,0,329,0,2385,147,70497,77376,,,,,no-data
+14/05/2020,71,55,Argentina,Buenos Aires,,6957,79,341,12,,,,,,,,,buenos-aires
+14/05/2020,71,55,Argentina,CABA,,7110,153,350,9,,,,,,,,"**Un  caso  confirmado  de  la  provincia  de  Misiones,  fue  reclasificado  a  Ciudad  de  Buenos Aires (CABA).",capital-federal
+14/05/2020,71,55,Argentina,Chaco,,7119,9,351,1,,,,,,,,,chaco
+14/05/2020,71,55,Argentina,Córdoba,,7124,5,352,1,,,,,,,,,cordoba
+14/05/2020,71,55,Argentina,Corrientes,,7127,3,352,0,,,,,,,,,corrientes
+14/05/2020,71,55,Argentina,Entre Ríos,,7128,1,352,0,,,,,,,,,entre-rios
+14/05/2020,71,55,Argentina,La Rioja,,7128,0,352,0,,,,,,,,,la-rioja
+14/05/2020,71,55,Argentina,Mendoza,,7128,0,352,0,,,,,,,,,mendoza
+14/05/2020,71,55,Argentina,Misiones,,7128,0,352,0,,,,,,,,,misiones
+14/05/2020,71,55,Argentina,Neuquén,,7129,1,352,0,,,,,,,,,neuquen
+14/05/2020,71,55,Argentina,Río Negro,,7133,4,353,1,,,,,,,,,rio-negro
+14/05/2020,71,55,Argentina,Salta,,7133,0,353,0,,,,,,,,,salta
+14/05/2020,71,55,Argentina,Santa Fe,,7133,0,353,0,,,,,,,,,santa-fe
+14/05/2020,71,55,Argentina,Santiago del Estero,,7133,0,353,0,,,,,,,,,santiago-del-estero
+14/05/2020,71,55,Argentina,Tucumán,,7133,0,353,0,,,,,,,,,tucuman
+14/05/2020,71,55,Argentina,Indeterminado,,7133,0,353,0,,,70497,77376,,,,,no-data
+15/05/2020,72,56,Argentina,Buenos Aires,,7219,86,355,2,,,,,,,,,buenos-aires
+15/05/2020,72,56,Argentina,CABA,,7434,215,355,0,,,,,,,,"**Un  caso  confirmado  de  la  provincia  de  Misiones,  fue  reclasificado  a  Ciudad  de  Buenos Aires (CABA).",capital-federal
+15/05/2020,72,56,Argentina,Chaco,,7459,25,356,1,,,,,,,,,chaco
+15/05/2020,72,56,Argentina,Córdoba,,7462,3,356,0,,,,,,,,,cordoba
+15/05/2020,72,56,Argentina,Corrientes,,7462,0,356,0,,,,,,,,,corrientes
+15/05/2020,72,56,Argentina,Entre Ríos,,7461,-1,356,0,,,,,,,,,entre-rios
+15/05/2020,72,56,Argentina,La Rioja,,7461,0,356,0,,,,,,,,,la-rioja
+15/05/2020,72,56,Argentina,Mendoza,,7461,0,356,0,,,,,,,,,mendoza
+15/05/2020,72,56,Argentina,Misiones,,7461,0,356,0,,,,,,,,,misiones
+15/05/2020,72,56,Argentina,Neuquén,,7461,0,356,0,,,,,,,,,neuquen
+15/05/2020,72,56,Argentina,Río Negro,,7478,17,356,0,,,,,,,,,rio-negro
+15/05/2020,72,56,Argentina,Salta,,7478,0,356,0,,,,,,,,,salta
+15/05/2020,72,56,Argentina,Santa Fe,,7478,0,356,0,,,,,,,,,santa-fe
+15/05/2020,72,56,Argentina,Santiago del Estero,,7478,0,356,0,,,,,,,,,santiago-del-estero
+15/05/2020,72,56,Argentina,Tucumán,,7478,0,356,0,,,,,,,,,tucuman
+15/05/2020,72,56,Argentina,Indeterminado,,7478,0,356,0,,,70497,77376,,,,,no-data
 16/05/2020,73,57,Argentina,Buenos Aires,,7575,97,358,2,,,,,,,,,
 16/05/2020,73,57,Argentina,CABA,,7768,193,362,4,,,,,,,,,
 16/05/2020,73,57,Argentina,Chaco,,7789,21,363,1,,,,,,,,,
@@ -816,3 +816,19 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 16/05/2020,73,57,Argentina,Santiago del Estero,,7805,0,363,0,,,,,,,,,
 16/05/2020,73,57,Argentina,Tucumán,,7805,0,363,0,,,,,,,,,
 16/05/2020,73,57,Argentina,Indeterminado,,7805,0,363,0,,,,,,,,,
+17/05/2020,74,58,Argentina,Buenos Aires,,7815,10,363,0,,,,,,,,,
+17/05/2020,74,58,Argentina,CABA,,7825,10,363,0,,,,,,,,,
+17/05/2020,74,58,Argentina,Chaco,,7825,0,363,0,,,,,,,,,
+17/05/2020,74,58,Argentina,Córdoba,,7825,0,363,0,,,,,,,,,
+17/05/2020,74,58,Argentina,Corrientes,,7825,0,363,0,,,,,,,,,
+17/05/2020,74,58,Argentina,Entre Ríos,,7825,0,363,0,,,,,,,,,
+17/05/2020,74,58,Argentina,La Rioja,,7825,0,363,0,,,,,,,,,
+17/05/2020,74,58,Argentina,Mendoza,,7825,0,363,0,,,,,,,,,
+17/05/2020,74,58,Argentina,Misiones,,7825,0,363,0,,,,,,,,,
+17/05/2020,74,58,Argentina,Neuquén,,7825,0,363,0,,,,,,,,,
+17/05/2020,74,58,Argentina,Río Negro,,7825,0,363,0,,,,,,,,,
+17/05/2020,74,58,Argentina,Salta,,7825,0,363,0,,,,,,,,,
+17/05/2020,74,58,Argentina,Santa Fe,,7825,0,363,0,,,,,,,,,
+17/05/2020,74,58,Argentina,Santiago del Estero,,7825,0,363,0,,,,,,,,,
+17/05/2020,74,58,Argentina,Tucumán,,7825,0,363,0,,,,,,,,,
+17/05/2020,74,58,Argentina,Indeterminado,,7825,0,363,0,,,,,,,,,
