@@ -800,35 +800,35 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 15/05/2020,72,56,Argentina,Santiago del Estero,,7478,0,356,0,,,,,,,,,santiago-del-estero
 15/05/2020,72,56,Argentina,Tucumán,,7478,0,356,0,,,,,,,,,tucuman
 15/05/2020,72,56,Argentina,Indeterminado,,7478,0,356,0,,,70497,77376,,,,,no-data
-16/05/2020,73,57,Argentina,Buenos Aires,,7575,97,358,2,,,,,,,,,
-16/05/2020,73,57,Argentina,CABA,,7768,193,362,4,,,,,,,,,
-16/05/2020,73,57,Argentina,Chaco,,7789,21,363,1,,,,,,,,,
-16/05/2020,73,57,Argentina,Córdoba,,7798,9,363,0,,,,,,,,,
-16/05/2020,73,57,Argentina,Corrientes,,7798,0,363,0,,,,,,,,,
-16/05/2020,73,57,Argentina,Entre Ríos,,7798,0,363,0,,,,,,,,,
-16/05/2020,73,57,Argentina,La Rioja,,7798,0,363,0,,,,,,,,,
-16/05/2020,73,57,Argentina,Mendoza,,7798,0,363,0,,,,,,,,,
-16/05/2020,73,57,Argentina,Misiones,,7798,0,363,0,,,,,,,,,
-16/05/2020,73,57,Argentina,Neuquén,,7798,0,363,0,,,,,,,,,
-16/05/2020,73,57,Argentina,Río Negro,,7804,6,363,0,,,,,,,,,
-16/05/2020,73,57,Argentina,Salta,,7804,0,363,0,,,,,,,,,
-16/05/2020,73,57,Argentina,Santa Fe,Rosario,7805,1,363,0,,,,,,,,,
-16/05/2020,73,57,Argentina,Santiago del Estero,,7805,0,363,0,,,,,,,,,
-16/05/2020,73,57,Argentina,Tucumán,,7805,0,363,0,,,,,,,,,
-16/05/2020,73,57,Argentina,Indeterminado,,7805,0,363,0,,,,,,,,,
-17/05/2020,74,58,Argentina,Buenos Aires,,7879,74,366,3,,,,,,,,,
-17/05/2020,74,58,Argentina,CABA,,8026,147,368,2,,,,,,,,,
-17/05/2020,74,58,Argentina,Chaco,,8045,19,370,2,,,,,,,,,
-17/05/2020,74,58,Argentina,Córdoba,,8065,20,372,2,,,,,,,,,
-17/05/2020,74,58,Argentina,Corrientes,,8065,0,372,0,,,,,,,,,
-17/05/2020,74,58,Argentina,Entre Ríos,,8065,0,372,0,,,,,,,,,
-17/05/2020,74,58,Argentina,La Rioja,,8066,1,372,0,,,,,,,,,
-17/05/2020,74,58,Argentina,Mendoza,,8066,0,372,0,,,,,,,,,
-17/05/2020,74,58,Argentina,Misiones,,8066,0,372,0,,,,,,,,,
-17/05/2020,74,58,Argentina,Neuquén,,8066,0,372,0,,,,,,,,,
-17/05/2020,74,58,Argentina,Río Negro,,8068,2,373,1,,,,,,,,,
-17/05/2020,74,58,Argentina,Salta,,8068,0,373,0,,,,,,,,,
-17/05/2020,74,58,Argentina,Santa Fe,,8068,0,373,0,,,,,,,,,
-17/05/2020,74,58,Argentina,Santiago del Estero,,8068,0,373,0,,,,,,,,,
-17/05/2020,74,58,Argentina,Tucumán,,8068,0,373,0,,,,,,,,,
-17/05/2020,74,58,Argentina,Indeterminado,,8068,0,373,0,,,,,,,,,
+16/05/2020,73,57,Argentina,Buenos Aires,,7575,97,358,2,,,,,,,,,buenos-aires
+16/05/2020,73,57,Argentina,CABA,,7768,193,362,4,,,,,,,,,capital-federal
+16/05/2020,73,57,Argentina,Chaco,,7789,21,363,1,,,,,,,,,chaco
+16/05/2020,73,57,Argentina,Córdoba,,7798,9,363,0,,,,,,,,,cordoba
+16/05/2020,73,57,Argentina,Corrientes,,7798,0,363,0,,,,,,,,,corrientes
+16/05/2020,73,57,Argentina,Entre Ríos,,7798,0,363,0,,,,,,,,,entre-rios
+16/05/2020,73,57,Argentina,La Rioja,,7798,0,363,0,,,,,,,,,la-rioja
+16/05/2020,73,57,Argentina,Mendoza,,7798,0,363,0,,,,,,,,,mendoza
+16/05/2020,73,57,Argentina,Misiones,,7798,0,363,0,,,,,,,,,misiones
+16/05/2020,73,57,Argentina,Neuquén,,7798,0,363,0,,,,,,,,,neuquen
+16/05/2020,73,57,Argentina,Río Negro,,7804,6,363,0,,,,,,,,,rio-negro
+16/05/2020,73,57,Argentina,Salta,,7804,0,363,0,,,,,,,,,salta
+16/05/2020,73,57,Argentina,Santa Fe,Rosario,7805,1,363,0,,,,,,,,,santa-fe
+16/05/2020,73,57,Argentina,Santiago del Estero,,7805,0,363,0,,,,,,,,,santiago-del-estero
+16/05/2020,73,57,Argentina,Tucumán,,7805,0,363,0,,,,,,,,,tierra-del-fuego
+16/05/2020,73,57,Argentina,Indeterminado,,7805,0,363,0,,,,,,,,,no-data
+17/05/2020,74,58,Argentina,Buenos Aires,,7879,74,366,3,,,,,,,,,buenos-aires
+17/05/2020,74,58,Argentina,CABA,,8026,147,368,2,,,,,,,,,capital-federal
+17/05/2020,74,58,Argentina,Chaco,,8045,19,370,2,,,,,,,,,chaco
+17/05/2020,74,58,Argentina,Córdoba,,8065,20,372,2,,,,,,,,,cordoba
+17/05/2020,74,58,Argentina,Corrientes,,8065,0,372,0,,,,,,,,,corrientes
+17/05/2020,74,58,Argentina,Entre Ríos,,8065,0,372,0,,,,,,,,,entre-rios
+17/05/2020,74,58,Argentina,La Rioja,,8066,1,372,0,,,,,,,,,la-rioja
+17/05/2020,74,58,Argentina,Mendoza,,8066,0,372,0,,,,,,,,,mendoza
+17/05/2020,74,58,Argentina,Misiones,,8066,0,372,0,,,,,,,,,misiones
+17/05/2020,74,58,Argentina,Neuquén,,8066,0,372,0,,,,,,,,,neuquen
+17/05/2020,74,58,Argentina,Río Negro,,8068,2,373,1,,,,,,,,,rio-negro
+17/05/2020,74,58,Argentina,Salta,,8068,0,373,0,,,,,,,,,salta
+17/05/2020,74,58,Argentina,Santa Fe,,8068,0,373,0,,,,,,,,,santa-fe
+17/05/2020,74,58,Argentina,Santiago del Estero,,8068,0,373,0,,,,,,,,,santiago-del-estero
+17/05/2020,74,58,Argentina,Tucumán,,8068,0,373,0,,,,,,,,,tucuman
+17/05/2020,74,58,Argentina,Indeterminado,,8068,0,373,0,,,,,,,,,no-data
