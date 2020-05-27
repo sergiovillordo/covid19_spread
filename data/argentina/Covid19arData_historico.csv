@@ -783,7 +783,7 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 14/05/2020,71,55,Argentina,Santa Fe,,7133,0,353,0,,,,,,,,,santa-fe
 14/05/2020,71,55,Argentina,Santiago del Estero,,7133,0,353,0,,,,,,,,,santiago-del-estero
 14/05/2020,71,55,Argentina,Tucumán,,7133,0,353,0,,,,,,,,,tucuman
-14/05/2020,71,55,Argentina,Indeterminado,,7133,0,353,0,,,70497,77376,,,,,no-data
+14/05/2020,71,55,Argentina,Indeterminado,,7133,0,353,0,2497,149,72972,80106,,,,,no-data
 15/05/2020,72,56,Argentina,Buenos Aires,,7219,86,355,2,,,,,,,,,buenos-aires
 15/05/2020,72,56,Argentina,CABA,,7434,215,355,0,,,,,,,,"**Un  caso  confirmado  de  la  provincia  de  Misiones,  fue  reclasificado  a  Ciudad  de  Buenos Aires (CABA).",capital-federal
 15/05/2020,72,56,Argentina,Chaco,,7459,25,356,1,,,,,,,,,chaco
@@ -799,7 +799,7 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 15/05/2020,72,56,Argentina,Santa Fe,,7478,0,356,0,,,,,,,,,santa-fe
 15/05/2020,72,56,Argentina,Santiago del Estero,,7478,0,356,0,,,,,,,,,santiago-del-estero
 15/05/2020,72,56,Argentina,Tucumán,,7478,0,356,0,,,,,,,,,tucuman
-15/05/2020,72,56,Argentina,Indeterminado,,7478,0,356,0,,,70497,77376,,,,,no-data
+15/05/2020,72,56,Argentina,Indeterminado,,7478,0,356,0,2534,151,75647,83126,,,,,no-data
 16/05/2020,73,57,Argentina,Buenos Aires,,7575,97,358,2,,,,,,,,,buenos-aires
 16/05/2020,73,57,Argentina,CABA,,7768,193,362,4,,,,,,,,,capital-federal
 16/05/2020,73,57,Argentina,Chaco,,7789,21,363,1,,,,,,,,,chaco
@@ -815,7 +815,7 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 16/05/2020,73,57,Argentina,Santa Fe,Rosario,7805,1,363,0,,,,,,,,,santa-fe
 16/05/2020,73,57,Argentina,Santiago del Estero,,7805,0,363,0,,,,,,,,,santiago-del-estero
 16/05/2020,73,57,Argentina,Tucumán,,7805,0,363,0,,,,,,,,,tierra-del-fuego
-16/05/2020,73,57,Argentina,Indeterminado,,7805,0,363,0,,,,,,,,,no-data
+16/05/2020,73,57,Argentina,Indeterminado,,7805,0,363,0,2569,154,77582,85387,,,,,no-data
 17/05/2020,74,58,Argentina,Buenos Aires,,7879,74,366,3,,,,,,,,,buenos-aires
 17/05/2020,74,58,Argentina,CABA,,8026,147,368,2,,,,,,,,,capital-federal
 17/05/2020,74,58,Argentina,Chaco,,8045,19,370,2,,,,,,,,,chaco
@@ -831,38 +831,161 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 17/05/2020,74,58,Argentina,Santa Fe,Rosario,8068,0,373,0,,,,,,,,,santa-fe
 17/05/2020,74,58,Argentina,Santiago del Estero,,8068,0,373,0,,,,,,,,,santiago-del-estero
 17/05/2020,74,58,Argentina,Tucumán,,8068,0,373,0,,,,,,,,,tucuman
-17/05/2020,74,58,Argentina,Indeterminado,,8068,0,373,0,,,,,,,,,no-data
-18/05/2020,75,59,Argentina,Buenos Aires,,8161,93,375,2,,,,,,,,,
-18/05/2020,75,59,Argentina,CABA,,8330,169,380,5,,,,,,,,,
-18/05/2020,75,59,Argentina,Chaco,,8343,13,382,2,,,,,,,,,
-18/05/2020,75,59,Argentina,Córdoba,,8363,20,382,0,,,,,,,,,
-18/05/2020,75,59,Argentina,Corrientes,,8362,-1,382,0,,,,,,,,,
-18/05/2020,75,59,Argentina,Entre Ríos,,8362,0,382,0,,,,,,,,,
-18/05/2020,75,59,Argentina,La Rioja,,8364,2,382,0,,,,,,,,,
-18/05/2020,75,59,Argentina,Mendoza,,8364,0,382,0,,,,,,,,,
-18/05/2020,75,59,Argentina,Misiones,,8364,0,382,0,,,,,,,,,
-18/05/2020,75,59,Argentina,Neuquén,,8364,0,382,0,,,,,,,,,
-18/05/2020,75,59,Argentina,Río Negro,,8366,2,382,0,,,,,,,,,
-18/05/2020,75,59,Argentina,San Juan,,8367,1,382,0,,,,,,,,,
-18/05/2020,75,59,Argentina,Salta,,8367,0,382,0,,,,,,,,,
-18/05/2020,75,59,Argentina,Santa Fe,Rosario,8371,4,382,0,,,,,,,,,
-18/05/2020,75,59,Argentina,Santiago del Estero,,8371,0,382,0,,,,,,,,,
-18/05/2020,75,59,Argentina,Tucumán,,8371,0,382,0,,,,,,,,,
-18/05/2020,75,59,Argentina,Indeterminado,,8371,0,382,0,,,,,,,,,
-19/05/2020,76,60,Argentina,Buenos Aires,,8528,157,384,2,,,,,,,,,
-19/05/2020,76,60,Argentina,CABA,,8752,224,389,5,,,,,,,,,
-19/05/2020,76,60,Argentina,Chaco,,8786,34,393,4,,,,,,,,,
-19/05/2020,76,60,Argentina,Córdoba,,8795,9,393,0,,,,,,,,,
-19/05/2020,76,60,Argentina,Corrientes,,8795,0,393,0,,,,,,,,,
-19/05/2020,76,60,Argentina,Entre Ríos,,8795,0,393,0,,,,,,,,,
-19/05/2020,76,60,Argentina,La Rioja,,8795,0,393,0,,,,,,,,,
-19/05/2020,76,60,Argentina,Mendoza,,8797,2,393,0,,,,,,,,,
-19/05/2020,76,60,Argentina,Misiones,,8797,0,393,0,,,,,,,,,
-19/05/2020,76,60,Argentina,Neuquén,,8797,0,393,0,,,,,,,,,
-19/05/2020,76,60,Argentina,Río Negro,,8803,6,393,0,,,,,,,,,
-19/05/2020,76,60,Argentina,San Juan,,8803,0,393,0,,,,,,,,,
-19/05/2020,76,60,Argentina,Salta,,8803,0,393,0,,,,,,,,,
-19/05/2020,76,60,Argentina,Santa Fe,,8803,0,393,0,,,,,,,,,
-19/05/2020,76,60,Argentina,Santiago del Estero,,8809,6,393,0,,,,,,,,,
-19/05/2020,76,60,Argentina,Tucumán,,8809,0,393,0,,,,,,,,,
-19/05/2020,76,60,Argentina,Indeterminado,,8809,0,393,0,,,,,,,,,
+17/05/2020,74,58,Argentina,Indeterminado,,8068,0,373,0,2625,159,79462,87530,,,,,no-data
+18/05/2020,75,59,Argentina,Buenos Aires,,8161,93,375,2,,,,,,,,,buenos-aires
+18/05/2020,75,59,Argentina,CABA,,8330,169,380,5,,,,,,,,,capital-federal
+18/05/2020,75,59,Argentina,Chaco,,8343,13,382,2,,,,,,,,,chaco
+18/05/2020,75,59,Argentina,Córdoba,,8363,20,382,0,,,,,,,,,cordoba
+18/05/2020,75,59,Argentina,Corrientes,,8362,-1,382,0,,,,,,,,,corrientes
+18/05/2020,75,59,Argentina,Entre Ríos,,8362,0,382,0,,,,,,,,,entre-rios
+18/05/2020,75,59,Argentina,La Rioja,,8364,2,382,0,,,,,,,,,la-rioja
+18/05/2020,75,59,Argentina,Mendoza,,8364,0,382,0,,,,,,,,,mendoza
+18/05/2020,75,59,Argentina,Misiones,,8364,0,382,0,,,,,,,,,misiones
+18/05/2020,75,59,Argentina,Neuquén,,8364,0,382,0,,,,,,,,,neuquen
+18/05/2020,75,59,Argentina,Río Negro,,8366,2,382,0,,,,,,,,,rio-negro
+18/05/2020,75,59,Argentina,San Juan,,8367,1,382,0,,,,,,,,,san-juan
+18/05/2020,75,59,Argentina,Salta,,8367,0,382,0,,,,,,,,,salta
+18/05/2020,75,59,Argentina,Santa Fe,Rosario,8371,4,382,0,,,,,,,,,santa-fe
+18/05/2020,75,59,Argentina,Santiago del Estero,,8371,0,382,0,,,,,,,,,santiago-del-estero
+18/05/2020,75,59,Argentina,Tucumán,,8371,0,382,0,,,,,,,,,tucuman
+18/05/2020,75,59,Argentina,Indeterminado,,8371,0,382,0,2872,156,81466,89837,,,,,no-data
+19/05/2020,76,60,Argentina,Buenos Aires,,8528,157,384,2,,,,,,,,,buenos-aires
+19/05/2020,76,60,Argentina,CABA,,8752,224,389,5,,,,,,,,,capital-federal
+19/05/2020,76,60,Argentina,Chaco,,8786,34,393,4,,,,,,,,,chaco
+19/05/2020,76,60,Argentina,Córdoba,,8795,9,393,0,,,,,,,,,cordoba
+19/05/2020,76,60,Argentina,Corrientes,,8795,0,393,0,,,,,,,,,corrientes
+19/05/2020,76,60,Argentina,Entre Ríos,,8795,0,393,0,,,,,,,,,entre-rios
+19/05/2020,76,60,Argentina,La Rioja,,8795,0,393,0,,,,,,,,,la-rioja
+19/05/2020,76,60,Argentina,Mendoza,,8797,2,393,0,,,,,,,,,mendoza
+19/05/2020,76,60,Argentina,Misiones,,8797,0,393,0,,,,,,,,,misiones
+19/05/2020,76,60,Argentina,Neuquén,,8797,0,393,0,,,,,,,,,neuquen
+19/05/2020,76,60,Argentina,Río Negro,,8803,6,393,0,,,,,,,,,rio-negro
+19/05/2020,76,60,Argentina,San Juan,,8803,0,393,0,,,,,,,,,san-juan
+19/05/2020,76,60,Argentina,Salta,,8803,0,393,0,,,,,,,,,salta
+19/05/2020,76,60,Argentina,Santa Fe,,8803,0,393,0,,,,,,,,,santa-fe
+19/05/2020,76,60,Argentina,Santiago del Estero,,8809,6,393,0,,,,,,,,,santiago-del-estero
+19/05/2020,76,60,Argentina,Tucumán,,8809,0,393,0,,,,,,,,,tucuman
+19/05/2020,76,60,Argentina,Indeterminado,,8809,0,393,0,2933,161,84449,93258,,,,,no-data
+20/05/2020,77,61,Argentina,Buenos Aires,,8987,178,398,5,,,,,,,,,buenos-aires
+20/05/2020,77,61,Argentina,CABA,,9244,257,400,2,,,,,,,,,capital-federal
+20/05/2020,77,61,Argentina,Chaco,,9279,35,401,1,,,,,,,,,chaco
+20/05/2020,77,61,Argentina,Córdoba,,9281,2,402,1,,,,,,,,,cordoba
+20/05/2020,77,61,Argentina,Corrientes,,9281,0,402,0,,,,,,,,,corrientes
+20/05/2020,77,61,Argentina,Entre Ríos,,9281,0,402,0,,,,,,,,,entre-rios
+20/05/2020,77,61,Argentina,La Rioja,,9281,0,402,0,,,,,,,,,la-rioja
+20/05/2020,77,61,Argentina,Mendoza,,9281,0,402,0,,,,,,,,,mendoza
+20/05/2020,77,61,Argentina,Misiones,,9281,0,402,0,,,,,,,,,misiones
+20/05/2020,77,61,Argentina,Neuquén,,9281,0,402,0,,,,,,,,,neuquen
+20/05/2020,77,61,Argentina,Río Negro,,9283,2,403,1,,,,,,,,,rio-negro
+20/05/2020,77,61,Argentina,San Juan,,9283,0,403,0,,,,,,,,,san-juan
+20/05/2020,77,61,Argentina,Salta,,9283,0,403,0,,,,,,,,,salta
+20/05/2020,77,61,Argentina,Santa Fe,Rosario,9285,2,403,0,,,,,,,,,santa-fe
+20/05/2020,77,61,Argentina,Santiago del Estero,,9285,0,403,0,,,,,,,,,santiago-del-estero
+20/05/2020,77,61,Argentina,Tucumán,,9285,0,403,0,,,,,,,,,tucuman
+20/05/2020,77,61,Argentina,Indeterminado,,9285,0,403,0,3032,171,87447,96730,,,,,no-data
+21/05/2020,78,62,Argentina,Buenos Aires,,9498,213,412,9,,,,,,,,,buenos-aires
+21/05/2020,78,62,Argentina,CABA,,9877,379,414,2,,,,,,,,,capital-federal
+21/05/2020,78,62,Argentina,Chaco,,9911,34,416,2,,,,,,,,,chaco
+21/05/2020,78,62,Argentina,Córdoba,,9923,12,416,0,,,,,,,,,cordoba
+21/05/2020,78,62,Argentina,Corrientes,,9923,0,416,0,,,,,,,,,corrientes
+21/05/2020,78,62,Argentina,Entre Ríos,,9923,0,416,0,,,,,,,,,entre-rios
+21/05/2020,78,62,Argentina,La Rioja,,9923,0,416,0,,,,,,,,,la-rioja
+21/05/2020,78,62,Argentina,Mendoza,,9924,1,416,0,,,,,,,,,mendoza
+21/05/2020,78,62,Argentina,Misiones,,9924,0,416,0,,,,,,,,,misiones
+21/05/2020,78,62,Argentina,Neuquén,,9924,0,416,0,,,,,,,,,neuquen
+21/05/2020,78,62,Argentina,Río Negro,,9927,3,416,0,,,,,,,,,rio-negro
+21/05/2020,78,62,Argentina,San Juan,,9927,0,416,0,,,,,,,,,san-juan
+21/05/2020,78,62,Argentina,Salta,,9927,0,416,0,,,,,,,,,salta
+21/05/2020,78,62,Argentina,Santa Fe,Rosario,9930,3,416,0,,,,,,,,,santa-fe
+21/05/2020,78,62,Argentina,Santiago del Estero,,9930,0,416,0,,,,,,,,,santiago-del-estero
+21/05/2020,78,62,Argentina,Tucumán,,9931,1,416,0,,,,,,,,,tucuman
+21/05/2020,78,62,Argentina,Indeterminado,,9931,0,416,0,3062,172,90667,100598,,,,,no-data
+22/05/2020,79,63,Argentina,Buenos Aires,,10197,266,421,5,,,,,,,,,buenos-aires
+22/05/2020,79,63,Argentina,CABA,,10601,404,428,7,2,,,,,,,,capital-federal
+22/05/2020,79,63,Argentina,Chaco,,10628,27,430,2,,,,,,,,,chaco
+22/05/2020,79,63,Argentina,Córdoba,,10637,9,431,1,,,,,,,,,cordoba
+22/05/2020,79,63,Argentina,Corrientes,,10637,0,431,0,,,,,,,,,corrientes
+22/05/2020,79,63,Argentina,Entre Ríos,,10637,0,431,0,,,,,,,,,entre-rios
+22/05/2020,79,63,Argentina,La Rioja,,10637,0,431,0,,,,,,,,,la-rioja
+22/05/2020,79,63,Argentina,Mendoza,,10637,0,431,0,,,,,,,,,mendoza
+22/05/2020,79,63,Argentina,Misiones,,10637,0,431,0,,,,,,,,,misiones
+22/05/2020,79,63,Argentina,Neuquén,,10637,0,431,0,,,,,,,,,neuquen
+22/05/2020,79,63,Argentina,Río Negro,,10643,6,433,2,,,,,,,,,rio-negro
+22/05/2020,79,63,Argentina,San Juan,,10643,0,433,0,,,,,,,,,san-juan
+22/05/2020,79,63,Argentina,Salta,,10645,2,433,0,,,,,,,,,salta
+22/05/2020,79,63,Argentina,Santa Fe,Rosario,10649,4,433,0,,,,,,,,,santa-fe
+22/05/2020,79,63,Argentina,Santiago del Estero,,10649,0,433,0,,,,,,,,,santiago-del-estero
+22/05/2020,79,63,Argentina,Tucumán,,10649,0,433,0,,,,,,,,,tucuman
+22/05/2020,79,63,Argentina,Indeterminado,,10649,0,433,0,3530,173,93528,104177,,,,,no-data
+23/05/2020,80,64,Argentina,Buenos Aires,,10938,289,437,4,,,,,,,,,buenos-aires
+23/05/2020,80,64,Argentina,CABA,,11338,400,443,6,,,,,,,,,capital-federal
+23/05/2020,80,64,Argentina,Chaco,,11345,7,445,2,,,,,,,,,chaco
+23/05/2020,80,64,Argentina,Córdoba,,11345,0,445,0,,,,,,,,,cordoba
+23/05/2020,80,64,Argentina,Corrientes,,11345,0,445,0,,,,,,,,,corrientes
+23/05/2020,80,64,Argentina,Entre Ríos,,11345,0,445,0,,,,,,,,,entre-rios
+23/05/2020,80,64,Argentina,La Rioja,,11345,0,445,0,,,,,,,,,la-rioja
+23/05/2020,80,64,Argentina,Mendoza,,11345,0,445,0,,,,,,,,,mendoza
+23/05/2020,80,64,Argentina,Misiones,,11345,0,445,0,,,,,,,,,misiones
+23/05/2020,80,64,Argentina,Neuquén,,11345,0,445,0,,,,,,,,,neuquen
+23/05/2020,80,64,Argentina,Río Negro,,11350,5,445,0,,,,,,,,,rio-negro
+23/05/2020,80,64,Argentina,San Juan,,11350,0,445,0,,,,,,,,,san-juan
+23/05/2020,80,64,Argentina,Salta,,11350,0,445,0,,,,,,,,,salta
+23/05/2020,80,64,Argentina,Santa Fe,Rosario,11350,0,445,0,,,,,,,,,santa-fe
+23/05/2020,80,64,Argentina,Santiago del Estero,,11350,0,445,0,,,,,,,,,santiago-del-estero
+23/05/2020,80,64,Argentina,Tucumán,,11353,3,445,0,,,,,,,,,tucuman
+23/05/2020,80,64,Argentina,Indeterminado,,11353,0,445,0,3732,181,95859,107212,,,,,no-data
+24/05/2020,81,65,Argentina,Buenos Aires,,11549,196,447,2,,,,,,,,,
+24/05/2020,81,65,Argentina,CABA,,12043,494,450,3,,,,,,,,,
+24/05/2020,81,65,Argentina,Chaco,,12063,20,452,2,,,,,,,,,
+24/05/2020,81,65,Argentina,Córdoba,,12069,6,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,Corrientes,,12069,0,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,Entre Ríos,,12069,0,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,La Rioja,,12069,0,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,Mendoza,,12069,0,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,Misiones,,12069,0,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,Neuquén,,12070,1,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,Río Negro,,12075,5,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,San Juan,,12075,0,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,Salta,,12075,0,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,Santa Fe,Venado Tuerto,12076,1,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,Santa Fe,Las Rosas,12077,1,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,Santiago del Estero,,12077,0,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,Tucumán,,12076,-1,452,0,,,,,,,,***Un caso confirmado de Tucumán fue reclasificado a la Ciudad de Buenos Aires.,
+24/05/2020,81,65,Argentina,Indeterminado,,12076,0,452,0,,,,,,,,,
+25/05/2020,82,66,Argentina,Buenos Aires,,12235,159,458,6,,,,,,,,,
+25/05/2020,82,66,Argentina,CABA,,12610,375,465,7,,,,,,,,,
+25/05/2020,82,66,Argentina,Chaco,,12619,9,465,0,,,,,,,,,
+25/05/2020,82,66,Argentina,Córdoba,,12622,3,466,1,,,,,,,,,
+25/05/2020,82,66,Argentina,Corrientes,,12622,0,466,0,,,,,,,,,
+25/05/2020,82,66,Argentina,Entre Ríos,,12622,0,466,0,,,,,,,,,
+25/05/2020,82,66,Argentina,La Rioja,,12622,0,466,0,,,,,,,,,
+25/05/2020,82,66,Argentina,Mendoza,,12622,0,466,0,,,,,,,,,
+25/05/2020,82,66,Argentina,Misiones,,12622,0,466,0,,,,,,,,,
+25/05/2020,82,66,Argentina,Neuquén,,12623,1,466,0,,,,,,,,,
+25/05/2020,82,66,Argentina,Río Negro,,12627,4,467,1,,,,,,,,,
+25/05/2020,82,66,Argentina,San Juan,,12627,0,467,0,,,,,,,,,
+25/05/2020,82,66,Argentina,Salta,,12627,0,467,0,,,,,,,,,
+25/05/2020,82,66,Argentina,Santa Fe,Rosario,12626,-1,467,0,,,,,,,,,
+25/05/2020,82,66,Argentina,Santa Fe,,12626,0,467,0,,,,,,,,,
+25/05/2020,82,66,Argentina,Santiago del Estero,,12626,0,467,0,,,,,,,,,
+25/05/2020,82,66,Argentina,Tucumán,,12628,2,467,0,,,,,,,,,
+25/05/2020,82,66,Argentina,Indeterminado,,12628,0,467,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Buenos Aires,,12864,236,483,16,,,,,,,,,
+26/05/2020,83,67,Argentina,CABA,,13191,327,488,5,,,,,,,,,
+26/05/2020,83,67,Argentina,Chaco,,13214,23,490,2,,,,,,,,,
+26/05/2020,83,67,Argentina,Chubut,,13215,1,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Córdoba,,13215,0,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Corrientes,,13215,0,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Entre Ríos,,13215,0,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,La Rioja,,13215,0,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Mendoza,,13215,0,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Misiones,,13215,0,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Neuquén,,13222,7,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Río Negro,,13226,4,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,San Juan,,13226,0,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Salta,,13226,0,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Santa Fe,Rosario,13226,0,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Santa Fe,,13228,2,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Santiago del Estero,,13228,0,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Tucumán,,13228,0,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Indeterminado,,13228,0,490,0,,,,,,,,,
