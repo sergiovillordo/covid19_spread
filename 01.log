@@ -1,336 +1,0 @@
-
-
-processing file: index.Rmd
-  |                                                                         |                                                                 |   0%  |                                                                         |..                                                               |   3%
-  ordinary text without R code
-
-  |                                                                         |....                                                             |   7%
-label: setup (with options) 
-List of 3
- $ echo   : logi FALSE
- $ message: logi FALSE
- $ warning: logi FALSE
-
-
-Attaching package: 'lubridate'
-
-The following object is masked from 'package:base':
-
-    date
-
-── Attaching packages ────────────────────────────────── tidyverse 1.2.1 ──
-✔ ggplot2 3.2.1     ✔ purrr   0.3.3
-✔ tibble  2.1.3     ✔ dplyr   0.8.3
-✔ tidyr   1.0.0     ✔ stringr 1.4.0
-✔ readr   1.3.1     ✔ forcats 0.4.0
-── Conflicts ───────────────────────────────────── tidyverse_conflicts() ──
-✖ lubridate::as.difftime() masks base::as.difftime()
-✖ lubridate::date()        masks base::date()
-✖ dplyr::filter()          masks stats::filter()
-✖ lubridate::intersect()   masks base::intersect()
-✖ dplyr::lag()             masks stats::lag()
-✖ lubridate::setdiff()     masks base::setdiff()
-✖ lubridate::union()       masks base::union()
-
-Attaching package: 'plotly'
-
-The following object is masked from 'package:ggplot2':
-
-    last_plot
-
-The following object is masked from 'package:stats':
-
-    filter
-
-The following object is masked from 'package:graphics':
-
-    layout
-
-  |                                                                         |.......                                                          |  10%
-  ordinary text without R code
-
-  |                                                                         |.........                                                        |  14%
-label: unnamed-chunk-1 (with options) 
-List of 3
- $ echo   : logi FALSE
- $ message: logi FALSE
- $ warning: logi FALSE
-
---2020-06-29 22:00:03--  https://covid.ourworldindata.org/data/ecdc/full_data.csv
-Resolving covid.ourworldindata.org (covid.ourworldindata.org)... 142.93.108.123, 2a03:b0c0:3:e0::26f:c001
-Connecting to covid.ourworldindata.org (covid.ourworldindata.org)|142.93.108.123|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 864406 (844K) [text/csv]
-Saving to: ‘data/world/full_data.csv’
-
-     0K .......... .......... .......... .......... ..........  5%  383K 2s
-    50K .......... .......... .......... .......... .......... 11%  855K 1s
-   100K .......... .......... .......... .......... .......... 17% 2,79M 1s
-   150K .......... .......... .......... .......... .......... 23%  979K 1s
-   200K .......... .......... .......... .......... .......... 29% 1,10M 1s
-   250K .......... .......... .......... .......... .......... 35%  857K 1s
-   300K .......... .......... .......... .......... .......... 41% 7,10M 1s
-   350K .......... .......... .......... .......... .......... 47%  931K 0s
-   400K .......... .......... .......... .......... .......... 53% 1,00M 0s
-   450K .......... .......... .......... .......... .......... 59%  893K 0s
-   500K .......... .......... .......... .......... .......... 65%  816K 0s
-   550K .......... .......... .......... .......... .......... 71% 2,84M 0s
-   600K .......... .......... .......... .......... .......... 77%  801K 0s
-   650K .......... .......... .......... .......... .......... 82%  919K 0s
-   700K .......... .......... .......... .......... .......... 88% 1,00M 0s
-   750K .......... .......... .......... .......... .......... 94% 1,16M 0s
-   800K .......... .......... .......... .......... ....      100%  776K=0,9s
-
-2020-06-29 22:00:04 (972 KB/s) - ‘data/world/full_data.csv’ saved [864406/864406]
-
---2020-06-29 22:00:04--  https://covid19.isciii.es/resources/serie_historica_acumulados.csv
-Resolving covid19.isciii.es (covid19.isciii.es)... 193.146.52.140, 193.146.50.140
-Connecting to covid19.isciii.es (covid19.isciii.es)|193.146.52.140|:443... connected.
-HTTP request sent, awaiting response... 302 Object moved
-Location: https://cnecovid.isciii.es/covid19/resources/agregados.csv [following]
---2020-06-29 22:00:04--  https://cnecovid.isciii.es/covid19/resources/agregados.csv
-Resolving cnecovid.isciii.es (cnecovid.isciii.es)... 193.146.50.165
-Connecting to cnecovid.isciii.es (cnecovid.isciii.es)|193.146.50.165|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 56090 (55K) [application/octet-stream]
-Saving to: ‘data/spain/serie_historica_acumulados.csv’
-
-     0K .......... .......... .......... .......... .......... 91% 1,57M 0s
-    50K ....                                                  100% 23,5M=0,03s
-
-2020-06-29 22:00:05 (1,71 MB/s) - ‘data/spain/serie_historica_acumulados.csv’ saved [56090/56090]
-
---2020-06-29 22:00:05--  https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=0&format=csv
-Resolving docs.google.com (docs.google.com)... 216.58.211.46, 2a00:1450:4003:803::200e
-Connecting to docs.google.com (docs.google.com)|216.58.211.46|:443... connected.
-HTTP request sent, awaiting response... 307 Temporary Redirect
-Location: https://doc-0g-68-sheets.googleusercontent.com/export/l5l039s6ni5uumqbsj9o11lmdc/rmjrqfqk5okcr97fh1ejjdk17g/1593460805000/117083538822401506830/*/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=0&format=csv [following]
-Warning: wildcards not supported in HTTP.
---2020-06-29 22:00:05--  https://doc-0g-68-sheets.googleusercontent.com/export/l5l039s6ni5uumqbsj9o11lmdc/rmjrqfqk5okcr97fh1ejjdk17g/1593460805000/117083538822401506830/*/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=0&format=csv
-Resolving doc-0g-68-sheets.googleusercontent.com (doc-0g-68-sheets.googleusercontent.com)... 216.58.201.161, 2a00:1450:4003:805::2001
-Connecting to doc-0g-68-sheets.googleusercontent.com (doc-0g-68-sheets.googleusercontent.com)|216.58.201.161|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: unspecified [text/csv]
-Saving to: ‘data/argentina/Covid19arData_historico.csv’
-
-     0K .......... .......... .......... .......... .......... 4,62M
-    50K .......... .......... .......... .......... .......... 1,72M
-   100K .......... .......... .......... .......... .......... 2,45M
-   150K .......... .                                           15,4M=0,06s
-
-2020-06-29 22:00:05 (2,64 MB/s) - ‘data/argentina/Covid19arData_historico.csv’ saved [165267]
-
-  |                                                                         |...........                                                      |  17%
-  ordinary text without R code
-
-  |                                                                         |.............                                                    |  21%
-label: unnamed-chunk-2 (with options) 
-List of 3
- $ echo   : logi FALSE
- $ message: logi FALSE
- $ warning: logi FALSE
-
-Parsed with column specification:
-cols(
-  color_mapa = col_double(),
-  mapa = col_character(),
-  mapache = col_character(),
-  region = col_character()
-)
-Parsed with column specification:
-cols(
-  fecha = col_character(),
-  dia_inicio = col_double(),
-  dia_cuarentena_dnu260 = col_double(),
-  osm_admin_level_2 = col_character(),
-  osm_admin_level_4 = col_character(),
-  osm_admin_level_8 = col_character(),
-  tot_casosconf = col_double(),
-  nue_casosconf_diff = col_double(),
-  tot_fallecidos = col_double(),
-  nue_fallecidos_diff = col_double(),
-  tot_recuperados = col_double(),
-  tot_terapia = col_double(),
-  `test_RT-PCR_negativos` = col_double(),
-  `test_RT-PCR_total` = col_double(),
-  transmision_tipo = col_character(),
-  informe_tipo = col_character(),
-  informe_link = col_character(),
-  observacion = col_character(),
-  covid19argentina_admin_level_4 = col_character()
-)
-  |                                                                         |................                                                 |  24%
-   inline R code fragments
-
-  |                                                                         |..................                                               |  28%
-label: unnamed-chunk-3 (with options) 
-List of 4
- $ echo     : logi FALSE
- $ message  : logi FALSE
- $ warning  : logi FALSE
- $ out.width: chr "100%"
-
-  |                                                                         |....................                                             |  31%
-  ordinary text without R code
-
-  |                                                                         |......................                                           |  34%
-label: unnamed-chunk-4 (with options) 
-List of 4
- $ echo     : logi FALSE
- $ message  : logi FALSE
- $ warning  : logi FALSE
- $ out.width: chr "100%"
-
-  |                                                                         |.........................                                        |  38%
-  ordinary text without R code
-
-  |                                                                         |...........................                                      |  41%
-label: unnamed-chunk-5 (with options) 
-List of 4
- $ echo     : logi FALSE
- $ message  : logi FALSE
- $ warning  : logi FALSE
- $ out.width: chr "100%"
-
-  |                                                                         |.............................                                    |  45%
-  ordinary text without R code
-
-  |                                                                         |...............................                                  |  48%
-label: unnamed-chunk-6 (with options) 
-List of 6
- $ echo      : logi FALSE
- $ message   : logi FALSE
- $ warning   : logi FALSE
- $ fig.height: num 9
- $ fig.width : num 10
- $ out.width : chr "100%"
-
-  |                                                                         |..................................                               |  52%
-  ordinary text without R code
-
-  |                                                                         |....................................                             |  55%
-label: unnamed-chunk-7 (with options) 
-List of 4
- $ echo     : logi FALSE
- $ message  : logi FALSE
- $ warning  : logi FALSE
- $ out.width: chr "100%"
-
-  |                                                                         |......................................                           |  59%
-  ordinary text without R code
-
-  |                                                                         |........................................                         |  62%
-label: unnamed-chunk-8 (with options) 
-List of 4
- $ echo     : logi FALSE
- $ message  : logi FALSE
- $ warning  : logi FALSE
- $ out.width: chr "100%"
-
-  |                                                                         |...........................................                      |  66%
-  ordinary text without R code
-
-  |                                                                         |.............................................                    |  69%
-label: unnamed-chunk-9 (with options) 
-List of 4
- $ echo     : logi FALSE
- $ message  : logi FALSE
- $ warning  : logi FALSE
- $ out.width: chr "100%"
-
-  |                                                                         |...............................................                  |  72%
-  ordinary text without R code
-
-  |                                                                         |.................................................                |  76%
-label: unnamed-chunk-10 (with options) 
-List of 4
- $ echo     : logi FALSE
- $ message  : logi FALSE
- $ warning  : logi FALSE
- $ out.width: chr "100%"
-
-  |                                                                         |....................................................             |  79%
-  ordinary text without R code
-
-  |                                                                         |......................................................           |  83%
-label: unnamed-chunk-11 (with options) 
-List of 4
- $ echo     : logi FALSE
- $ message  : logi FALSE
- $ warning  : logi FALSE
- $ out.width: chr "100%"
-
-Parsed with column specification:
-cols(
-  .default = col_double(),
-  location = col_character(),
-  country = col_character(),
-  Region = col_character(),
-  Pop_Density_persq.mi._ = col_character(),
-  `Coastline _coast_area ratio_` = col_character(),
-  Net_migration = col_character(),
-  Phones_per_1000_ = col_number(),
-  `Arable _%_` = col_character(),
-  `Crops _%_` = col_character(),
-  Agriculture = col_character(),
-  Industry = col_character(),
-  Service = col_character()
-)
-See spec(...) for full column specifications.
-Parsed with column specification:
-cols(
-  date = col_date(format = ""),
-  location = col_character(),
-  new_cases = col_double(),
-  new_deaths = col_double(),
-  total_cases = col_double(),
-  total_deaths = col_double()
-)
-  |                                                                         |........................................................         |  86%
-  ordinary text without R code
-
-  |                                                                         |..........................................................       |  90%
-label: unnamed-chunk-12 (with options) 
-List of 4
- $ echo     : logi FALSE
- $ message  : logi FALSE
- $ warning  : logi FALSE
- $ out.width: chr "100%"
-
-  |                                                                         |.............................................................    |  93%
-  ordinary text without R code
-
-  |                                                                         |...............................................................  |  97%
-label: unnamed-chunk-13 (with options) 
-List of 4
- $ echo     : logi FALSE
- $ message  : logi FALSE
- $ warning  : logi FALSE
- $ out.width: chr "100%"
-
-  |                                                                         |.................................................................| 100%
-  ordinary text without R code
-
-
-output file: index.knit.md
-
-/usr/bin/pandoc +RTS -K512m -RTS index.utf8.md --to html4 --from markdown+autolink_bare_uris+tex_math_single_backslash --output index.html --smart --email-obfuscation none --self-contained --standalone --section-divs --template /home/sergio/R/x86_64-pc-linux-gnu-library/3.6/rmarkdown/rmd/h/default.html --no-highlight --variable highlightjs=1 --variable 'theme:bootstrap' --include-in-header /tmp/RtmpMjSuc7/rmarkdown-str5dc3505dcde6.html --mathjax --variable 'mathjax-url:https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML' 
-
-Output created: index.html
-Warning messages:
-1: In prettyNum(r, big.mark = big.mark, big.interval = big.interval,  :
-  'big.mark' and 'decimal.mark' are both '.', which could be confusing
-2: In prettyNum(r, big.mark = big.mark, big.interval = big.interval,  :
-  'big.mark' and 'decimal.mark' are both '.', which could be confusing
-3: In prettyNum(r, big.mark = big.mark, big.interval = big.interval,  :
-  'big.mark' and 'decimal.mark' are both '.', which could be confusing
-4: In prettyNum(r, big.mark = big.mark, big.interval = big.interval,  :
-  'big.mark' and 'decimal.mark' are both '.', which could be confusing
-5: In prettyNum(r, big.mark = big.mark, big.interval = big.interval,  :
-  'big.mark' and 'decimal.mark' are both '.', which could be confusing
-6: In prettyNum(r, big.mark = big.mark, big.interval = big.interval,  :
-  'big.mark' and 'decimal.mark' are both '.', which could be confusing
-7: In prettyNum(r, big.mark = big.mark, big.interval = big.interval,  :
-  'big.mark' and 'decimal.mark' are both '.', which could be confusing
-8: In prettyNum(r, big.mark = big.mark, big.interval = big.interval,  :
-  'big.mark' and 'decimal.mark' are both '.', which could be confusing
